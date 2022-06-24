@@ -1,5 +1,10 @@
-### Hi there 👋
+## :man:&#127997;&zwj;:computer: Hi! I'm Fernando and I love to solve problems with technology. 
 
+___
+
+<br>
+
+  :computer:
 <!--
 **flsr-dev/flsr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
