@@ -1,6 +1,6 @@
-<p style="text-align:center;font-size: 2em; font-weight: 400; margin-bottom: 0px;">
+<h1 align="center">
   👨🏽‍💻 Hello, I'm Fernando!
-</p>
+</h1>
 
 <p style="text-align:center;font-size: medium; font-weight: 400; margin-top: 0px; font-style: italic;">
   I love to solve problems using technology!
