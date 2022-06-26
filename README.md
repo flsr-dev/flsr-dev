@@ -4,8 +4,6 @@
 
 <br>
 
-<hr style="border-top: 1px solid gray; border-bottom: none">
-
 - 🇧🇷 Brazilian, living in Belo Horizonte.
 
 - 💻 I'm currently studying **full-stack development [@Trybe](https://github.com/betrybe)**.
