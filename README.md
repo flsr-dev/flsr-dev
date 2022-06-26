@@ -1,5 +1,5 @@
 <h1 align="center">
-  👨🏽‍💻 Hello! I'm Fernando and I love to solve problems using technology!
+  👨🏽‍💻 Hello! I'm Fernando and I love solving problems using technology!
 </h1>
 
 <br>
