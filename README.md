@@ -1,12 +1,6 @@
 <h1 align="center">
-  👨🏽‍💻 Hello, I'm Fernando!
+  👨🏽‍💻 Hello! I'm Fernando and I love to solve problems using technology!
 </h1>
-
-<p style="text-align:center;font-size: medium; font-weight: 400; margin-top: 0px; font-style: italic;">
-  I love to solve problems using technology!
-</p>
-
-<hr style="border-top: 1px solid gray; border-bottom: none">
 
 <br>
 
