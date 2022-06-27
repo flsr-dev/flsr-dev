@@ -22,7 +22,6 @@
   💻 Tech skills
 </h1>
    
-
   ### Languages
 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,14 +46,24 @@
 
   ### Tests
 
- 
-
   ![Jest](https://img.shields.io/badge/Jest-3AC213?style=for-the-badge&logo=Jest&logoColor=white)
   ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
   ![Mocha](https://img.shields.io/badge/mocha.js-593D88?style=for-the-badge&logo=mocha&logoColor=Brown)
   ![Chai](https://img.shields.io/badge/chai.js-F9F1E1?style=for-the-badge&logo=chai&logoColor=red)
   ![Sinon](https://img.shields.io/badge/sinon.js-a0d3a4?style=for-the-badge&logo=sinon)
 
+<br>
 
+<hr style="border-top: 1px solid gray; border-bottom: none">
+
+<h2 align="center">
+  💬 Socials
+</h1>
+
+<a href="https://www.linkedin.com/in/fernandolsr0/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+</a>
+
+<br>
 
 <hr style="border-top: 1px solid gray; border-bottom: none">
