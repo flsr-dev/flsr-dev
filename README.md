@@ -8,7 +8,7 @@
 
 - 💻 I'm currently studying **full-stack development [@Trybe](https://github.com/betrybe)**.
 
-- 🌱 Currently learning about back-end with **Node.js**.
+- 🌱 Currently learning about back-end with **TypeScript**.
 
 - 📚 I want to learn more about ☁️ Cloud Computing.
 
