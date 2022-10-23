@@ -8,11 +8,11 @@
 
 - 💻 I'm currently studying **full-stack development [@Trybe](https://github.com/betrybe)**.
 
-- 🌱 Currently learning about back-end with **TypeScript**.
+- 🌱 Currently learning about back-end with **.NET**.
 
 - 📚 I want to learn more about ☁️ Cloud Computing.
 
-- 💬 Let's talk about **JavaScript, HTML, CSS, React, Redux, RTL, Jest, Node.js, Docker, ORM, SQL**!
+- 💬 Let's talk about **back-end development**!
 
 <br>
 
